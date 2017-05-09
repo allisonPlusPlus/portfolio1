@@ -1,5 +1,5 @@
 .profile-image {
-  border-radius: 100px;
+  border-radius: 50%;
   height: auto;
   width: 200px;
 }
@@ -8,7 +8,7 @@
 .project1, .project2, .project3, .project4, .project5, .project6 {
   box-sizing: border-box;
   border: 2px solid gray;
-  border-radius: 100%;
+  border-radius: 50%;
   height: auto;
   width: auto;
   margin-top: 10px;
