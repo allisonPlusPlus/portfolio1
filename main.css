@@ -34,3 +34,8 @@
 .social a:hover {
   color: black;
 }
+
+footer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
