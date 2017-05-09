@@ -26,3 +26,7 @@
 .social a {
   color: 	 #777;
 }
+
+.social a:hover {
+  color: black;
+}
