@@ -1,3 +1,9 @@
+.text-secondary {
+  color: gray;
+}
+
+
+
 .profile-image {
   border-radius: 50%;
   height: auto;
@@ -15,16 +21,10 @@
   margin-bottom: 10px;
 }
 
-/*.project1, .project2, .project3, .project4, .project5, .project6, .img-responsive {
-  margin: 0 auto;
-}*/
-
-
 .a:hover {
   opacity: 0.5;
 }
 
 .social a {
   color: #777;
-
 }
