@@ -15,7 +15,6 @@
 
 .project1, .project2, .project3, .project4, .project5, .project6 {
   box-sizing: border-box;
-  border: 2px solid gray;
   border-radius: 50%;
   height: 200px;
   width: 200px;
